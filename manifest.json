@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "Fútbol 7 de Álvaro",
+  "short_name": "Fútbol 7",
+  "description": "Calendario de fútbol 7 alevín del C.D. Fuenlabrada El Naranjo.",
+  "lang": "es-ES",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f0f9ff",
+  "theme_color": "#075985",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
